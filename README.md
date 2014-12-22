@@ -78,32 +78,28 @@ There are 19 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -112,25 +108,23 @@ There are 19 **ommitted** fragments!
 |---|---|---|---|
 |1.|__am__|8||
 |2.|__bibl__|3||
-|3.|__body__|1||
-|4.|__cell__|9||
-|5.|__closer__|1||
-|6.|__desc__|19||
-|7.|__div__|4| @__type__ (4) : dedication (1), to_the_reader (1), text (1), part (1)|
-|8.|__ex__|8||
-|9.|__expan__|8||
-|10.|__front__|1||
-|11.|__g__|303| @__ref__ (303) : char:EOLhyphen (264), char:cmbAbbrStroke (28), char:abque (8), char:punc (3)|
-|12.|__gap__|19| @__reason__ (19) : illegible (17), foreign (2)  •  @__extent__ (17) : 1 letter (8), 1 word (4), 2 letters (3), 3 letters (2)|
-|13.|__head__|4||
-|14.|__hi__|362| @__rend__ (8) : sup (8)|
-|15.|__item__|88||
-|16.|__list__|32| @__type__ (9) : syllogism (9)|
-|17.|__note__|67| @__place__ (67) : margin (67)|
-|18.|__p__|156||
-|19.|__pb__|47| @__facs__ (47) : tcp:18919:1 (1), tcp:18919:2 (2), tcp:18919:3 (2), tcp:18919:4 (2), tcp:18919:5 (2), tcp:18919:6 (2), tcp:18919:7 (2), tcp:18919:8 (2), tcp:18919:9 (2), tcp:18919:10 (2), tcp:18919:11 (2), tcp:18919:12 (2), tcp:18919:13 (2), tcp:18919:14 (2), tcp:18919:15 (2), tcp:18919:16 (2), tcp:18919:17 (2), tcp:18919:18 (2), tcp:18919:19 (2), tcp:18919:20 (2), tcp:18919:21 (2), tcp:18919:22 (2), tcp:18919:23 (2), tcp:18919:24 (2)  •  @__rendition__ (17) : simple:additions (17)|
-|20.|__q__|3||
-|21.|__row__|3||
-|22.|__seg__|3| @__rend__ (3) : decorInit (3)|
-|23.|__signed__|1||
-|24.|__table__|1||
+|3.|__cell__|9||
+|4.|__closer__|1||
+|5.|__desc__|19||
+|6.|__div__|4| @__type__ (4) : dedication (1), to_the_reader (1), text (1), part (1)|
+|7.|__ex__|8||
+|8.|__expan__|8||
+|9.|__g__|303| @__ref__ (303) : char:EOLhyphen (264), char:cmbAbbrStroke (28), char:abque (8), char:punc (3)|
+|10.|__gap__|19| @__reason__ (19) : illegible (17), foreign (2)  •  @__extent__ (17) : 1 letter (8), 1 word (4), 2 letters (3), 3 letters (2)|
+|11.|__head__|4||
+|12.|__hi__|362| @__rend__ (8) : sup (8)|
+|13.|__item__|88||
+|14.|__list__|32| @__type__ (9) : syllogism (9)|
+|15.|__note__|67| @__place__ (67) : margin (67)|
+|16.|__p__|156||
+|17.|__pb__|47| @__facs__ (47) : tcp:18919:1 (1), tcp:18919:2 (2), tcp:18919:3 (2), tcp:18919:4 (2), tcp:18919:5 (2), tcp:18919:6 (2), tcp:18919:7 (2), tcp:18919:8 (2), tcp:18919:9 (2), tcp:18919:10 (2), tcp:18919:11 (2), tcp:18919:12 (2), tcp:18919:13 (2), tcp:18919:14 (2), tcp:18919:15 (2), tcp:18919:16 (2), tcp:18919:17 (2), tcp:18919:18 (2), tcp:18919:19 (2), tcp:18919:20 (2), tcp:18919:21 (2), tcp:18919:22 (2), tcp:18919:23 (2), tcp:18919:24 (2)  •  @__rendition__ (17) : simple:additions (17)|
+|18.|__q__|3||
+|19.|__row__|3||
+|20.|__seg__|3| @__rend__ (3) : decorInit (3)|
+|21.|__signed__|1||
+|22.|__table__|1||
